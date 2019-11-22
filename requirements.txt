@@ -1,0 +1,5 @@
+datefinder
+pytesseract
+regex
+argparse
+pillow
